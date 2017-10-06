@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-mnemonic",
+  "name": "ducatuscore-mnemonic",
   "version": "1.2.3",
   "description": "BIP39 Mnemonics implemented for Bitcore.",
   "author": "BitPay <dev@bitpay.com>",
@@ -18,11 +18,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-mnemonic.git"
+    "url": "https://github.com/Ducatus/ducatuscore-mnemonic.git"
   },
   "keywords": [
     "bitcoin",
-    "bitcore",
+    "ducatuscore",
     "mnemonic",
     "crypto",
     "cryptography",
