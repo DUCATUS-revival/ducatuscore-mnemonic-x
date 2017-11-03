@@ -38,7 +38,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "ducatuscore-lib": "git+ssh://git@github.com/Ducatus/ducatuscore-lib.git",
+    "ducatuscore-lib": "git+ssh://git@github.com/Ducatus/ducatuscore-lib.git#p90x",
     "unorm": "^1.3.3"
   }
 }
