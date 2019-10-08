@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ducatus/ducatuscore-mnemonic.git"
+    "url": "https://github.com/DUCATUS-revival/ducatuscore-mnemonic.git"
   },
   "keywords": [
     "bitcoin",
@@ -38,7 +38,7 @@
     "mocha": "^2.2.5"
   },
   "dependencies": {
-    "ducatuscore-lib": "git+ssh://git@github.com/Ducatus/ducatuscore-lib-x.git",
+    "ducatuscore-lib": "git+ssh://git@github.com/DUCATUS-revival/ducatuscore-lib-x.git",
     "unorm": "^1.3.3"
   }
 }
